@@ -561,7 +561,7 @@ msgstr "gracias por regalar reddit gold"
 #: r2/controllers/ipn.py:474
 #, python-format
 msgid "Your gift to %s has been delivered."
-msgstr "Tu reglado a %s ha sido entregado"
+msgstr "Tu regalo a %s ha sido entregado"
 
 #: r2/controllers/listingcontroller.py:348
 msgid "newest submissions"
@@ -651,7 +651,7 @@ msgstr "comentarios"
 
 #: r2/controllers/oauth2.py:42
 msgid "My Identity"
-msgstr "MI Identidad"
+msgstr "Mi Identidad"
 
 #: r2/controllers/oauth2.py:43
 msgid "Access my reddit username and signup date."
@@ -863,7 +863,7 @@ msgstr "contáctanos"
 
 #: r2/lib/menus.py:94
 msgid "firefox extension"
-msgstr "extensión para firefox
+msgstr "extensión para firefox"
 
 #: r2/lib/menus.py:95
 msgid "buttons"
